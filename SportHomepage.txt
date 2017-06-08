@@ -1,0 +1,77 @@
+<html>
+	<head>
+	
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<title>Extreme shit</title>
+		
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" href="css/bootstrap.min.css"	>
+		<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+		
+	</head>
+	<body>
+		<div class="dropdown topcorner pull-right">
+		  <button class="btn btn-default btn-primary dropdown-toggle loginButton" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+			<span class="glyphicon glyphicon-user" aria-hidden="true"></span>
+		  </button>
+		  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+			<li><a href="#">Login</a></li>
+			<li><a href="#">Register</a></li>
+		  </ul>
+		</div>
+	
+		<div class="container" >
+			 <div>
+				<img src="img/CoverPicture.jpg" width="100%" height="250"  >
+			</div>
+		   <nav class="navbar navbar-inverse"  data-offset-top="197">
+				<div class="container text-center collapse navbar-collapse">
+				 <ul class="nav navbar-nav navbar-center">
+				  <li>
+					  <a href="" class="navbar-brand">
+						  <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
+					  </a>
+				  </li>
+				  <li><a href="" class="navbar-brand">Новини</a></li>
+				    <li class="dropdown">
+					   <a href="#" class="dropdown-toggle navbar-brand" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Спортове<span class="caret"></span></a>
+					   <ul class="dropdown-menu">
+						  <li><a href="#">Колоездене</a></li>
+						  <li><a href="#">Парашутизъм</a></li>
+						  <li><a href="#">Каяк</a></li>
+						</ul>
+					</li>
+				  <li><a href="" class="navbar-brand">Галерия</a></li>
+				  <li><a href="" class="navbar-brand">Форум</a></li>
+				 </ul>
+				</div>
+			</nav>
+		</div>
+		
+		<div class="tabbable tabs-left">
+        <ul class="nav nav-tabs">
+          <li><a href="#a" data-toggle="tab">One</a></li>
+          <li class="active"><a href="#b" data-toggle="tab">Two</a></li>
+          <li><a href="#c" data-toggle="tab">Twee</a></li>
+        </ul>
+        <div class="tab-content">
+         <div class="tab-pane active" id="a">Lorem ipsum dolor sit amet, charetra varius quam sit amet vulputate. 
+         Quisque mauris augue, molestie tincidunt condimentum vitae, gravida a libero.</div>
+         <div class="tab-pane" id="b">Secondo sed ac orci quis tortor imperdiet venenatis. Duis elementum auctor accumsan. 
+         Aliquam in felis sit amet augue.</div>
+         <div class="tab-pane" id="c">Thirdamuno, ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. 
+         Quisque mauris augue, molestie tincidunt condimentum vitae. </div>
+        </div>
+      </div>
+		
+		
+		
+		
+		<script src="js/jquery-3.2.1.min.js"></script>
+		<script src="	js/bootstrap.min.js"></script>
+		
+	</body>
+	
+</html>
