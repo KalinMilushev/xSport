@@ -1,3 +1,11 @@
+
+
+body
+{ 
+	background-image: url(img/background.jpg) !important; 
+}
+
+
 .navbar-nav > li{
   margin-left:30px;
   margin-right:30px;
