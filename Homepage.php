@@ -11,7 +11,7 @@
        <?php include('htmlElements/upperPicAndNavbar.html'); ?>
 
         <div class="row">
-            <div class="col-sm-1">tex1</div>
+            <div class="col-sm-1"></div>
             <!-- end of col1 -->
 
 
@@ -25,7 +25,7 @@
 						</ol>
 
 						<!-- Wrapper for slides -->
-						<div class="carousel-inner">
+						<div class="carousel-inner" align="center">
 							<div class="item active">
 								<img src="img/pic1.jpg" alt="Los Angeles" height="200" width="200">
 							</div>
@@ -56,7 +56,7 @@
             </div>
             <!-- end of col2 -->
 
-            <div class="col-sm-1">text3</div>
+            <div class="col-sm-1"></div>
             <!-- end of col3 -->
 
         </div>

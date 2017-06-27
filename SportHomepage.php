@@ -9,7 +9,7 @@
 	
        <?php include('htmlElements/upperPicAndNavbar.html'); ?>
         <div class="row">
-            <div class="col-sm-1">tex1</div>
+            <div class="col-sm-1"></div>
             <!-- end of col1 -->
 
             <div class="col-sm-10">
@@ -95,7 +95,7 @@
             </div>
             <!-- end of col2 -->
 
-            <div class="col-sm-1">text3</div>
+            <div class="col-sm-1"></div>
             <!-- end of col3 -->
 
         </div>
@@ -105,7 +105,7 @@
 
         <div class="row">
 
-            <div class="col-sm-1">L</div>
+            <div class="col-sm-1"></div>
             <!-- end of col1 -->
 
             <div class="col-sm-4">
