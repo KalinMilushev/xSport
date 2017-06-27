@@ -162,6 +162,6 @@ div>.mapClass {
     overflow-y: scroll;
 }
 
-.upperDest {
-    align-content: center;
+.destTabPane {
+    margin: 30px auto auto auto;
 }
