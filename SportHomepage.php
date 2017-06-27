@@ -90,10 +90,10 @@
                                 <div class="row">
                                     <div class="col-sm-10">
                                         <div class="row">
-                                            <div class="col-sm-3"></div>
-                                            <div class="col-sm-3">
+                                            <div class="col-sm-10"></div>
+                                            
                                                 <div class="container">
-                                                    <div id="myCarousel" class="carousel slide" data-ride="carousel" style="width: 400px">
+                                                    <div id="myCarousel" class="carousel slide col-sm-9" data-ride="carousel" >
                                                         <!-- Indicators -->
                                                         <ol class="carousel-indicators">
                                                             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -102,17 +102,17 @@
                                                         </ol>
 
                                                         <!-- Wrapper for slides -->
-                                                        <div class="carousel-inner">
+                                                        <div class="carousel-inner" align="center">
                                                             <div class="item active">
-                                                                <img src="img/pic1.jpg" alt="Los Angeles" height="200" width="200">
+                                                                <img src="img/pic1.jpg" alt="Los Angeles" height="250" width="300">
                                                             </div>
 
                                                             <div class="item">
-                                                                <img src="img/pic1.jpg" alt="Chicago" height="200" width="200">
+                                                                <img src="img/pic1.jpg" alt="Chicago" height="250" width="300">
                                                             </div>
 
                                                             <div class="item">
-                                                                <img src="img/pic1.jpg" alt="New York" height="200" width="200">
+                                                                <img src="img/pic1.jpg" alt="New York" height="250" width="300" >
                                                             </div>
                                                         </div>
 
@@ -125,7 +125,7 @@
                                                             <span class="glyphicon glyphicon-chevron-right"></span>
                                                             <span class="sr-only">Next</span>
                                                         </a>
-                                                    </div>
+                                                   
                                                 </div>
                                                 <!-- End of carousel container -->
                                             </div>
