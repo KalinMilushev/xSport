@@ -71,13 +71,17 @@
                                         </div>
                                         <br><br>
                                         <div class="row">
-                                            <div class="col-sm-3 imgInsideNavBar">
+                                            <div class="col-sm-4 imgInsideNavBar">
+													<div class="section " align="center"><iframe
+													src=""
+													>
+													</iframe></div>
+                              
+                                            </div>
+                                            <div class="col-sm-3 imgInsideNavBar" align="right">
                                                 <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
                                             </div>
-                                            <div class="col-sm-3 imgInsideNavBar">
-                                                <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
-                                            </div>
-                                            <div class="col-sm-3 imgInsideNavBar">
+                                            <div class="col-sm-2 imgInsideNavBar" align="right">
                                                 <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
                                             </div>
                                         </div>
