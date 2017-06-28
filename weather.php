@@ -15,71 +15,11 @@
             <!-- end of col1 -->
 
             <div class="col-sm-8">
-                <div class="container">
-                    <ul class="nav nav-tabs">
-                        <li class="active"><a href="#monday">Понеделник</a></li>
-                        <li><a href="#tuesday">Вторник</a></li>
-                        <li><a href="#wednesday">Сряда</a></li>
-                        <li><a href="#thursday">Четвъртък</a></li>
-                        <li><a href="#friday">Петък</a></li>
-                        <li><a href="#saturday">Събота</a></li>
-                        <li><a href="#sunday">Неделя</a></li>
-                    </ul>
-                    <div class="tab-content">
-                        <div id="#monday" class="tab-pane fade in active">
-                            <table class="table table-hover">
-                                <thead>
-                                <tr>
-                                    <th></th>
-                                    <th>12:00</th>
-                                    <th>12:00</th>
-                                    <th>12:00</th>
-                                    <th>12:00</th>
-                                    <th>12:00</th>
-                                    <th>12:00</th>
-                                </tr>
-                                </thead>
-                                <tbody>
-                                <tr>
-                                    <td>Температура</td>
-                                    <td>23°</td>
-                                    <td>23°</td>
-                                    <td>23°</td>
-                                    <td>23°</td>
-                                    <td>23°</td>
-                                    <td>23°</td>
-                                </tr>
-                                <tr>
-                                    <td>Валежи</td>
-                                    <td>2%</td>
-                                    <td>2%</td>
-                                    <td>2%</td>
-                                    <td>2%</td>
-                                    <td>2%</td>
-                                    <td>2%</td>
-                                </tr>
-                                <tr>
-                                    <td>Вятър</td>
-                                    <td>1.5 m/s</td>
-                                    <td>1.5 m/s</td>
-                                    <td>1.5 m/s</td>
-                                    <td>1.5 m/s</td>
-                                    <td>1.5 m/s</td>
-                                    <td>1.5 m/s</td>
-                                </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                        <div id="menu1" class="tab-pane fade">
-                            <h3>Menu 1</h3>
-                            <p>Some content in menu 1.</p>
-                        </div>
-                        <div id="menu2" class="tab-pane fade">
-                            <h3>Menu 2</h3>
-                            <p>Some content in menu 2.</p>
-                        </div>
-                    </div>    
-                </div>
+                <a href="https://www.accuweather.com/en/bg/sofia/51097/weather-forecast/51097" class="aw-widget-legal">
+<!--
+By accessing and/or using this code snippet, you agree to AccuWeather’s terms and conditions (in English) which can be found at https://www.accuweather.com/en/free-weather-widgets/terms and AccuWeather’s Privacy Statement (in English) which can be found at https://www.accuweather.com/en/privacy.
+-->
+</a><div id="awtd1498680661996" class="aw-widget-36hour"  data-locationkey="51097" data-unit="c" data-language="en-us" data-useip="false" data-uid="awtd1498680661996" data-editlocation="false"></div><script type="text/javascript" src="https://oap.accuweather.com/launch.js"></script>
             </div>
             <!-- end of col2 -->
 
