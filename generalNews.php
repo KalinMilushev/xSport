@@ -33,11 +33,11 @@
                                         <div class="row">
                                             <div class="col-sm-3">
                                                 <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
-                                                Картинка 1
+                                                Новина 1
                                             </div>
                                             <div class="col-sm-3">
                                                 <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
-                                                Картинка 2
+                                                Новина 2
                                             </div>
                                             <div class="col-sm-3"></div>
                                             <div class="col-sm-3">
@@ -53,11 +53,11 @@
                                         <div class="row">
                                             <div class="col-sm-3">
                                                 <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
-                                                Картинка 3
+                                                Новина 3
                                             </div>
                                             <div class="col-sm-3">
                                                 <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
-                                                Картинка 4
+                                                Новина 4
                                             </div>
                                             <div class="col-sm-3"></div>
                                             <div class="col-sm-3">
