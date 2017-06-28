@@ -39,11 +39,11 @@
                 <div class="row" style="margin-top:20px;">
                         <div class="col-sm-1">
                         </div>
-                        <div class="col-sm-2">
+                        <div class="col-sm-3">
                             <span class="glyphicon glyphicon-folder-open" aria-hidden="true" style="margin-right:20px;"></span>
                             Предстоящи събития
                         </div>
-                        <div class="col-sm-3">
+                        <div class="col-sm-2">
                         </div>
                         <div class="col-sm-1">
                             10
@@ -122,9 +122,9 @@
                             SH Части
                         </div>
                 </div>
-                 <div class="row" style="margin-top:20px;>
-                        <div class="col-sm-1">
-                        </div>
+                 <div class="row" style="margin-top:20px";>
+                        <div class="col-sm-1"></div>
+						
                         <div class="col-sm-2">
                             <span class="glyphicon glyphicon-folder-open" aria-hidden="true" style="margin-right:20px;"></span>
                             Колоездене
@@ -145,7 +145,7 @@
             <div class="col-sm-1">
             </div>
         </div><!-- end of row -->
-
+		<br><br><br><br>
 
 
 

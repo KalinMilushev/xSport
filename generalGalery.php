@@ -31,21 +31,11 @@
                                 <div class="row">
                                     <div class="col-sm-10">
                                         <div class="row">
-<<<<<<< HEAD
-                                            <div class="col-sm-3" align="right">
+											<div class="col-sm-3" align="right">
                                                 <img src="img/pic1.jpg" style="width: 250px; height: 250px;">
                                             </div>
                                             <div class="col-sm-4" align="right">
                                                 <img  src="img/pic1.jpg"  style="width: 250px; height: 250px;">
-=======
-                                            <div class="col-sm-3">
-                                                <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
-                                                Картинка 1
-                                            </div>
-                                            <div class="col-sm-3">
-                                                <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
-                                                Картинка 2
->>>>>>> 9b40cec7eb16ef78b75cd24a2fe08ab4b3f5ea4b
                                             </div>
 
                                             <div class="col-sm-3"></div>
@@ -60,7 +50,7 @@
                                             </div>
                                         </div>
                                         <br><br>
-<<<<<<< HEAD
+
 
                                          <div class="row">
                                             <div class="col-sm-3" align="right">
@@ -68,16 +58,7 @@
                                             </div>
                                             <div class="col-sm-4" align="right">
                                                 <img  src="img/pic1.jpg"  style="width: 250px; height: 250px;">
-=======
-                                        <div class="row">
-                                            <div class="col-sm-3">
-                                                <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
-                                                Картинка 3
-                                            </div>
-                                            <div class="col-sm-3">
-                                                <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
-                                                Картинка 4
->>>>>>> 9b40cec7eb16ef78b75cd24a2fe08ab4b3f5ea4b
+
                                             </div>
 
                                             <div class="col-sm-3"></div>
