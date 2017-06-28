@@ -15,11 +15,9 @@
             <!-- end of col1 -->
 
             <div class="col-sm-8">
-                <a href="https://www.accuweather.com/en/bg/sofia/51097/weather-forecast/51097" class="aw-widget-legal">
-<!--
-By accessing and/or using this code snippet, you agree to AccuWeather’s terms and conditions (in English) which can be found at https://www.accuweather.com/en/free-weather-widgets/terms and AccuWeather’s Privacy Statement (in English) which can be found at https://www.accuweather.com/en/privacy.
--->
-</a><div id="awtd1498680661996" class="aw-widget-36hour"  data-locationkey="51097" data-unit="c" data-language="en-us" data-useip="false" data-uid="awtd1498680661996" data-editlocation="false"></div><script type="text/javascript" src="https://oap.accuweather.com/launch.js"></script>
+                <a href="https://www.accuweather.com/en/bg/sofia/51097/weather-forecast/51097" class="aw-widget-legal"></a>
+                <div id="awtd1498680661996" class="aw-widget-36hour"  data-locationkey="51097" data-unit="c" data-language="en-us" data-useip="false" data-uid="awtd1498680661996" data-editlocation="false"></div>
+                <script type="text/javascript" src="https://oap.accuweather.com/launch.js"></script>
             </div>
             <!-- end of col2 -->
 
