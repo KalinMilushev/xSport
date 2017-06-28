@@ -124,7 +124,6 @@
                 </div>
                  <div class="row" style="margin-top:20px";>
                         <div class="col-sm-1"></div>
-						
                         <div class="col-sm-2">
                             <span class="glyphicon glyphicon-folder-open" aria-hidden="true" style="margin-right:20px;"></span>
                             Колоездене
