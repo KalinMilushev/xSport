@@ -3,9 +3,9 @@ body {
 }
 
 .hide-bullets {
-list-style:none;
-margin-left: -40px;
-margin-top:20px;
+    list-style: none;
+    margin-left: -40px;
+    margin-top: 20px;
 }
 
 .imgInsideNavBar {
@@ -170,4 +170,9 @@ div>.mapClass {
 
 .destTabPane {
     margin: 30px auto auto auto;
+}
+
+.imgNew {
+    height: 200px;
+    width: 100%;
 }
