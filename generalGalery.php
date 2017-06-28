@@ -39,7 +39,12 @@
                                             </div>
                                             <div class="col-sm-3"></div>
                                             <div class="col-sm-3">
-                                                <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
+                                                <div class="thumbnail" style="width: 200px; height: 200px; margin: 0 auto">
+                                                    <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago">
+                                                    <div class="caption">
+                                                        <h4>Trending</h4>
+                                                    </div>
+                                                </div>                                            
                                             </div>
                                         </div>
                                         <br><br>
@@ -52,7 +57,12 @@
                                             </div>
                                             <div class="col-sm-3"></div>
                                             <div class="col-sm-3">
-                                                <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
+                                                <div class="thumbnail" style="width: 200px; height: 200px; margin: 0 auto">
+                                                    <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" >
+                                                    <div class="caption">
+                                                        <h4>Newest</h4>
+                                                    </div>
+                                                </div> 
                                             </div>
                                         </div>
                                     </div>
