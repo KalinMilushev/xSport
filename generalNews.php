@@ -31,23 +31,14 @@
                                 <div class="row">
                                     <div class="col-sm-10">
                                         <div class="row">
-<<<<<<< HEAD
-                                            <div class="col-sm-3" align="right">
-                                                <img src="img/pic1.jpg" style="width: 250px; height: 250px;">
-                                            </div>
-                                            <div class="col-sm-4" align="right">
-                                                <img  src="img/pic1.jpg"  style="width: 250px; height: 250px;">
-=======
                                             <div class="col-sm-3">
                                                 <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
-                                                Картинка 1
+                                                Новина 1
                                             </div>
                                             <div class="col-sm-3">
                                                 <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
-                                                Картинка 2
->>>>>>> 9b40cec7eb16ef78b75cd24a2fe08ab4b3f5ea4b
+                                                Новина 2
                                             </div>
-
                                             <div class="col-sm-3"></div>
                                             <div class="col-sm-3">
                                                 <div class="thumbnail" style="width: 200px; height: 200px; margin: 0 auto">
@@ -56,30 +47,18 @@
                                                         <h4>Популярни</h4>
                                                     </div>
                                                 </div>                                            
-
                                             </div>
                                         </div>
                                         <br><br>
-<<<<<<< HEAD
-
-                                         <div class="row">
-                                            <div class="col-sm-3" align="right">
-                                                <img src="img/pic1.jpg" style="width: 250px; height: 250px;">
-                                            </div>
-                                            <div class="col-sm-4" align="right">
-                                                <img  src="img/pic1.jpg"  style="width: 250px; height: 250px;">
-=======
                                         <div class="row">
                                             <div class="col-sm-3">
                                                 <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
-                                                Картинка 3
+                                                Новина 3
                                             </div>
                                             <div class="col-sm-3">
                                                 <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
-                                                Картинка 4
->>>>>>> 9b40cec7eb16ef78b75cd24a2fe08ab4b3f5ea4b
+                                                Новина 4
                                             </div>
-
                                             <div class="col-sm-3"></div>
                                             <div class="col-sm-3">
                                                 <div class="thumbnail" style="width: 200px; height: 200px; margin: 0 auto">
@@ -88,7 +67,6 @@
                                                         <h4>Най-нови</h4>
                                                     </div>
                                                 </div> 
-
                                             </div>
                                         </div>
                                     </div>

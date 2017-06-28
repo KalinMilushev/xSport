@@ -1,3 +1,84 @@
 <div class="tab-pane" id="gallery">
-	
+	<script>
+         jQuery(document).ready(function($) {
+ 
+            $('#myCarousel').carousel({
+                    interval: 5000
+            });
+    
+            $('#carousel-text').html($('#slide-content-0').html());
+    
+            //Handles the carousel thumbnails
+        $('[id^=carousel-selector-]').click( function(){
+                var id = this.id.substr(this.id.lastIndexOf("-") + 1);
+                var id = parseInt(id);
+                $('#myCarousel').carousel(id);
+            });
+    
+    
+            // When the carousel slides, auto update the text
+            $('#myCarousel').on('slid.bs.carousel', function (e) {
+                    var id = $('.item.active').data('slide-number');
+                    $('#carousel-text').html($('#slide-content-'+id).html());
+            });
+        });
+</script>
+
+    <div class="container">
+        <div id="main_area">
+                <!-- Slider -->
+                <div class="row">
+                    <div class="col-xs-8" id="slider">
+                        <!-- Top part of the slider -->
+                        <div class="row">
+                            <div class="col-sm-12" id="carousel-bounding-box">
+                                <div class="carousel slide" id="myCarousel">
+                                    <!-- Carousel items -->
+                                    <div class="carousel-inner">
+                                        <div class="active item" data-slide-number="0">
+                                            <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
+                                        </div>
+
+                                    </div><!-- Carousel nav -->
+                                    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                                        <span class="glyphicon glyphicon-chevron-left"></span>                                       
+                                    </a>
+                                    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                                        <span class="glyphicon glyphicon-chevron-right"></span>                                       
+                                    </a>                                
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <li class="col-sm-3">
+                                <a class="thumbnail" id="carousel-selector-0">
+                                    <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
+                                </a>
+                            </li>
+
+                            <li class="col-sm-3">
+                                <a class="thumbnail" id="carousel-selector-1">
+                                    <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
+                                </a>
+                            </li>
+
+                            <li class="col-sm-3">
+                                <a class="thumbnail" id="carousel-selector-2">
+                                    <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
+                                </a>
+                            </li>
+
+                            <li class="col-sm-3">
+                                <a class="thumbnail" id="carousel-selector-3">
+                                    <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
+                                </a>
+                            </li>    
+                        </div>
+                    </div>
+                </div><!--/Slider-->
+        </div>
+    </div>
+
+
+
 </div>

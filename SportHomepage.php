@@ -25,7 +25,9 @@
                         </ul>
 						
                         <div class="tab-content">
+
                             <?php include('SportHome.html'); ?>
+
                             <?php include('SportEvents.html'); ?>
                             <?php include('SportGear.html');?>
 							<?php include('SportDestinations.html');?>
