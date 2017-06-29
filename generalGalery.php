@@ -17,31 +17,31 @@
                 <div class="container">
                     <div class="tabbable tabs-left">
                         <ul class="nav nav-tabs">
-                            <li><a href="#sport1" data-toggle="tab">Скейтбординг</a></li>
-                            <li><a href="#sport2" data-toggle="tab">Парашутизъм</a></li>
-                            <li><a href="#sport3" data-toggle="tab">Каяк</a></li>
-                            <li><a href="#sport3" data-toggle="tab">Сноубординг</a></li>
-                            <li><a href="#sport4" data-toggle="tab">Колоездене</a></li>
-                            <li><a href="#sport3" data-toggle="tab">Бейс джъмпинг</a></li>
-                            <li><a href="#sport3" data-toggle="tab">Скок сбънджи</a></li>
-                            <li><a href="#sport4" data-toggle="tab">Ски</a></li>
+                            <li><a href="#sport1">Скейтбординг</a></li>
+                            <li><a href="#sport2">Парашутизъм</a></li>
+                            <li><a href="#sport3">Каяк</a></li>
+                            <li><a href="#sport3">Сноубординг</a></li>
+                            <li><a href="#sport4">Колоездене</a></li>
+                            <li><a href="#sport3">Бейс джъмпинг</a></li>
+                            <li><a href="#sport3">Скок сбънджи</a></li>
+                            <li><a href="#sport4">Ски</a></li>
                         </ul>
                         <div class="tab-content">
                             <div class="tab-pane active" id="sportHome">
                                 <div class="row">
                                     <div class="col-sm-10">
                                         <div class="row">
-                                            <div class="col-sm-3">
-                                                <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
+                                            <div class="col-sm-4">
+                                                <img class="imgInsideNavBar" src="img/pic1.jpg" style="width: 250px; height: 250px">
                                                 Картинка 1
                                             </div>
-                                            <div class="col-sm-3">
-                                                <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
+                                            <div class="col-sm-4">
+                                                <img class="imgInsideNavBar" src="img/pic1.jpg" style="width: 250px; height: 250px">
                                                 Картинка 2
                                             </div>
-                                            <div class="col-sm-3"></div>
+                                            
                                             <div class="col-sm-3">
-                                                <div class="thumbnail" style="width: 200px; height: 200px; margin: 0 auto">
+                                                <div class="thumbnail" style="width: 250px; height: 250px;">
                                                     <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago">
                                                     <div class="caption">
                                                         <h4>Популярни</h4>
@@ -49,20 +49,19 @@
                                                 </div>                                            
                                             </div>
                                         </div>
-                                        <br><br>
+                                        <br>
                                         <div class="row">
-                                            <div class="col-sm-3">
-                                                <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
+                                            <div class="col-sm-4">
+                                                <img class="imgInsideNavBar" src="img/pic1.jpg" style="width: 250px; height: 250px">
                                                 Картинка 3
                                             </div>
-                                            <div class="col-sm-3">
-                                                <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
+                                            <div class="col-sm-4">
+                                                <img class="imgInsideNavBar" src="img/pic1.jpg" style="width: 250px; height: 250px">
                                                 Картинка 4
                                             </div>
-                                            <div class="col-sm-3"></div>
                                             <div class="col-sm-3">
-                                                <div class="thumbnail" style="width: 200px; height: 200px; margin: 0 auto">
-                                                    <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" >
+                                                <div class="thumbnail" style="width: 250px; height: 250px">
+                                                    <img class="imgInsideNavBar" src="img/pic1.jpg" >
                                                     <div class="caption">
                                                         <h4>Най-нови</h4>
                                                     </div>

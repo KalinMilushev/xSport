@@ -31,17 +31,16 @@
                                 <div class="row">
                                     <div class="col-sm-10">
                                         <div class="row">
-                                            <div class="col-sm-3">
-                                                <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
+                                            <div class="col-sm-4">
+                                                <img class="imgInsideNavBar" src="img/pic1.jpg" style="width: 250px; height: 250px">
                                                 Новина 1
                                             </div>
-                                            <div class="col-sm-3">
-                                                <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
+                                            <div class="col-sm-4">
+                                                <img class="imgInsideNavBar" src="img/pic1.jpg" style="width: 250px; height: 250px">
                                                 Новина 2
                                             </div>
-                                            <div class="col-sm-3"></div>
                                             <div class="col-sm-3">
-                                                <div class="thumbnail" style="width: 200px; height: 200px; margin: 0 auto">
+                                                <div class="thumbnail" style="width: 250px; height: 250px">
                                                     <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago">
                                                     <div class="caption">
                                                         <h4>Популярни</h4>
@@ -51,18 +50,18 @@
                                         </div>
                                         <br><br>
                                         <div class="row">
-                                            <div class="col-sm-3">
-                                                <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
+                                            <div class="col-sm-4">
+                                                <img class="imgInsideNavBar" src="img/pic1.jpg" style="width: 250px; height: 250px">
                                                 Новина 3
                                             </div>
-                                            <div class="col-sm-3">
-                                                <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" style="width: 200px; height: 200px; margin: 0 auto">
+                                            <div class="col-sm-4">
+                                                <img class="imgInsideNavBar" src="img/pic1.jpg" style="width: 250px; height: 250px">
                                                 Новина 4
                                             </div>
                                             <div class="col-sm-3"></div>
                                             <div class="col-sm-3">
-                                                <div class="thumbnail" style="width: 200px; height: 200px; margin: 0 auto">
-                                                    <img class="imgInsideNavBar" src="img/pic1.jpg" alt="Chicago" >
+                                                <div class="thumbnail" style="width: 250px; height: 250px">
+                                                    <img class="imgInsideNavBar" src="img/pic1.jpg" >
                                                     <div class="caption">
                                                         <h4>Най-нови</h4>
                                                     </div>
